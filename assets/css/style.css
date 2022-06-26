@@ -1,0 +1,40 @@
+
+
+.bg-black {
+    background-color: black;
+}
+.bg-white {
+    background-color: white;
+}
+.bg-semi {
+    background-color: whitesmoke;
+}
+.bg-grey {
+    background-color: gray;
+}
+.default-shadow {
+    box-shadow: 5px 5px 10px #ccc;
+}
+.text-white {
+    color:white;
+}
+.title {
+    color:black;
+    font-weight: 900;
+    font-family: 'Roboto';
+}
+.sub-title {
+    color:black;
+    font-weight: 600;
+    font-family: 'Open Sans';
+}
+.text-fill {
+    color: black;
+    font-weight: 400;
+    font-family: 'Open Sans';
+}
+.passive-text {
+    color:grey;
+    font-size: 14px;
+    font-weight: 400;
+}
